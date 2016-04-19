@@ -11,6 +11,7 @@ namespace GItTest_VS
         static void Main(string[] args)
         {
             System.Console.WriteLine("GoodMorning World");
+            //Next: write hello world
         }
     }
 }
